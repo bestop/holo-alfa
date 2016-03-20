@@ -1,25 +1,25 @@
 ---
-title: Guest Posts
+title: “自贸区进口食品直销中心”即将落户康桥莱茵广场 
 
 author:
-  name: George Michael
-  info: (@<a href="https://twitter.com/georgemichael">GeorgeMichael</a>)
+  name: Joe
 
-summary: If you want to create a guest post that will appear as if written by another author, simply add an <code>author</code> attribute to the front matter of your blog post.
+summary: 近日，康桥最大的城市综合体----位于沪南路、S20交界口的“和平莱茵广场”进行开业前最后的紧张调试，开业在即。
 ---
 
-If you want to create a guest post that will appear as if written by another author, simply add an `author` attribute to the front matter of your blog post. This will be picked up in the template and displayed in the meta-section both on the front page as well as on the individual post pages.
 
-This post's front matter looks like this:
+康桥将成为“自贸区进口食品直销中心”所在地
 
-{% highlight YAML %}
----
-title: Guest Posts
+1月9日，上海自贸区联合发展有限公司（以下称“自贸联发”）与上海和平集团（和平莱茵广场投资方）签署战略合作协议，协议内容包括：在康桥设立进口食品直销中心。
 
-author:
-  name: George Michael
-  info: (@<a href="https://twitter.com/georgemichael">GeorgeMichael</a>)
+双方的战略合作协议确定：双方将目前在上海自贸试验区范围内的洋山进口食品直销中心复制到和平集团的“康桥和平莱茵广场”内，具体时间是：2015年年内。洋山进口食品直销中心将充分发挥其社区型体验式精品购物的理念，通过O2O模式，为广大消费者介绍健康优质的国外食品和生活方式。
 
-summary: If you want to create a guest post that will appear as if written by another author, simply add an `author` attribute to the front matter of your blog post.
----
-{% endhighlight %}
+康桥将建市内第一个“平行进口车”销售中心
+
+“和平集团”与自贸区管委会签订的合作协议还包括，计划在“和平莱茵广场”开业后，开辟出较大面积进行平行进口汽车销售，以聚集更多的商业人气，成为自贸区商品销售在市内的一个重要延伸点。
+
+所谓“平行进口车”，也是业内俗称的“非中规车”，是指未经品牌厂商授权，贸易商从海外市场购买，并引入中国市场进行销售的汽车。一辆宝马X5 2014款xDrive35i领先型，在国内的指导价为92.8万，但在上海外高桥汽车交易市场，通过平行进口的美规版售价仅为72万，相较前者便宜20%左右。
+
+五星级酒店正在最后调试
+
+目前“和平莱茵广场”的招商工作进展顺利，大家所关注的“和平莱茵广场”五星级酒店已由香港豪生集团入驻进行经营管理，酒店现已进入最后的开业调试期。未来和平豪生酒店将成为康桥地区第一家具备超高品质的五星级酒店。
