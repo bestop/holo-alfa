@@ -3,8 +3,49 @@ layout: page
 title: About
 ---
 
-Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content. Created for free and for fun by Stijn. Get the latest version at the [Github repository](https://github.com/steinvc/holo-alfa).
+[Laojie.TK](http://laojie.tk)   
+康桥老街，又名绿地康桥新苑，位于上海“一城九镇”规划“周康中心镇”核心地带，北拥环城绿带30万平方米大型社区。由多层、小高层组小区组成，总面积30万平方米，其建筑再现海派里弄建筑经典.. 
 
----
+<p>
+	周康热线
+</p>
+<ul>
+	<li>
+		老街物业:68193594 老街居委:68060098 康桥街道事务受理中心:58121340&nbsp;社保/居住证:20913219(沪南公路2538号)
+	</li>
+	<li>
+		<span>康桥派出所:20904110(秀浦路1166号)&nbsp;康桥社区卫生中心:58123796(康沈路436号）&nbsp;</span>周浦医院:68135590
+	</li>
+	<li>
+		有线电视:58024533 &nbsp;周浦供电:68138644 &nbsp;周浦供水:58113530 &nbsp;周浦燃气:68115976 &nbsp;周浦电信:58112205
+	</li>
+	<li>
+		公积金:12329 医保:962218 地铁:64370000 公交:12580 长汽:66050000 火车:12306 磁悬浮:28907777 机场:96990&nbsp; <span>&nbsp;&nbsp;&nbsp;</span>
+	</li>
+</ul>
+<p>
+	<br />
+友链：<a href="http://kangqiao.pudong.gov.cn/" target="_blank">康桥政府</a>&nbsp;&nbsp;<a href="http://www.kangqiao.gov.cn/" target="_blank">康桥工业区</a>&nbsp;&nbsp;<a href="http://www.pdhr.com/" target="_blank">浦东人才网</a>&nbsp;&nbsp;<a href="http://www.i5zk.cn/forum.php" target="_blank">周康网</a>&nbsp;&nbsp;<a href="http://shanghai.metrofans.cn/forum-328-1.html" target="_blank">上轨周康</a>&nbsp;&nbsp;<a href="http://www.kqbd.com/bbs/forum.php" target="_blank">康桥半岛</a>&nbsp;&nbsp;<a href="http://kangqiaolaojie.fang.com/bbs/" target="_blank">老街论坛</a>&nbsp;&nbsp;<a href="http://www.201315.cn/" target="_blank">康桥小邻通</a>&nbsp;&nbsp;<a href="http://kangqiao.jjjaaa.com/" target="_blank"><span>康桥家园</span></a><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://bus.ly.com/" target="_blank">上海公交</a>&nbsp;&nbsp;<a href="http://www.shmetro.com/" target="_blank">上海地铁</a>&nbsp;&nbsp;<a href="http://www.shanghaiairport.com/" target="_blank">上海航班</a>&nbsp;&nbsp;<a href="http://www.huoche.com.cn/" target="_blank">火车时刻</a>&nbsp;&nbsp;<a href="http://www.changtu.com/" target="_blank">长途汽车</a>&nbsp;&nbsp;<a href="http://www.shgjj.com/" target="_blank">上海公积金</a>&nbsp;&nbsp;<a href="http://www.shyb.gov.cn/" target="_blank">上海医保</a>&nbsp;&nbsp;<a href="http://www.12333sh.gov.cn/wll/" target="_blank">综合保险</a>&nbsp;&nbsp;<a href="https://www.shfft.com/" target="_blank">水电煤查询</a>
+</p>    
 
-Holo Alfa is open source, [MIT license](http://opensource.org/licenses/MIT).
+康桥老街位于上海“一城九镇”规划“周康中心镇”核心地带，北拥环城绿带30万平方米大型社区。由多层、小高层组成，总面积30万平方米。其建筑再现海派里弄建筑经典。房型采用紧凑简约的设计风格，以75平米左右的两房、95平米左右的三房为主力，和少量的50平米左右一房和110平米左右三房。多条公交线路贯穿社区，300米直达外环高架，距离市中心人民广场约12公里路程，周边生活配套设施齐全。该小区绿化率为50%左右，是康桥这一带最大的一个小区，能入住3000多户，是绿地集团的一大杰作。   
+
+![康桥老街小区示意图](/media/laojie.jpeg)    
+
+### 特色老街   
+
+项目以上海里弄、石库门建筑为塑造基调，继承海派建筑文化精髓的七大里弄组团规划布局，浸润底蕴深厚的上海里弄文化，在营造生态环境、人文环境、智能环境全面提升的现代居住生活空间的同时，力图再现和睦互助的人际交往和邻里关系。
+
+七大主题交流空间  
+1  龙门村——书院气息  原址：建于1934年，因“龙门书院”而得名。“龙门书院”为清末上海著名学校，由巡道丁日昌创办，初时宣讲义理文章，后 改为师范学校。  组团：散布石桌椅于公共活动区内，可品茶闻香，可三五相聚，评弹笙歌。 
+2  集贤村——贤雅居停  原址：黄浦区金坛路。建于1912—1936年，新式里弄与旧式里弄相间，近龙门书院、书影楼等古迹，书卷人文气息浓郁，弄 名取意“尚礼集贤”。  组团：开敞的公共活动空间成为组团内居民晨起锻炼的佳所。 
+3  祥康里——荣华乐园  原址：黄浦区新昌路87弄，建于1908年的早期石库门弄堂，地处昔日灯红酒绿、车水马龙的跑马厅和大光明电影院附近，与 之相称，其结构、造型都高出同时代的早期石库门的弄堂。除平面布局、部分门窗栏杆有些中式花纹外，基本上都是西洋式的。  组团：老年健身器、儿童游乐器材组合布置，让老人、儿童流连忘返，各得其乐。 
+4  尚賢坊——浪漫情趣  原址：淮海中路358弄，卢湾区。上海 20 年代初期建造，立面帶有明顯的西班牙巴洛克風格。因這裡曾住過上海多名文化人。 這裡居往過現代作家丁玲、胡也頻及沈從文等，還是二、三十年代上海作家經常聚會的地方。郁达夫与王映霞的一段缠绵的恋爱更是从尚贤坊开始。  组团：作为景观点缀的公共小亭更是弈棋赏月，把酒言欢的去处。 
+5  花园坊——廊桥步道  原址：建于1928年，新式里弄，砖木结构三层。30年代在法租界金神父路花园坊，现在的瑞金二路129弄，留下不少文人的 故事。黄源夫妇住在103号的3楼，徐懋庸一家住在106号，1932年曹聚仁也搬到107号。曹聚仁在这里继续编《涛声》，停刊后又与徐一起创办《芒种》半月刊。 组团：沿河铺设的青砖小径（或木板路），一侧水波荡漾，一侧绿意葱葱，步移景异。 
+6  陕南村——滨水名宅  原址：陕西南路151号，卢湾区。曾名亚尔培公寓、皇都花园。1930年由法国天主教会建造，多外国人居住，后曾有众多名人 寓居，由蝶式点状型四层住宅组成一个建筑群。  组团：中心水景营造时尚滨水生态名宅。 
+7  懿园别墅——绿带氧吧  原址：建国西路506号，徐汇区。1940年建，典型的花园弄堂，由大陆农民银行投资建造。属西班牙建筑风格，屋顶采用西班 牙红色简瓦，窗间采用具有浓郁西班牙风格的螺旋形柱。  组团：别墅区内40米宽的绿带为该组团的居民提供了一个人造氧吧，呼吸鲜氧，沐浴林风，享受自然健康的别墅生活。
+ 
+### 老街交通    
+公交站：第三考验场，沪南路秀康路，秀沿路沪南路，秀沿路康巴路，康沈公路秀康路   
+公交路线: 451路，992路，975路，572路，624路，周康9路，龙大专线，塘邵专线，浦卫线
