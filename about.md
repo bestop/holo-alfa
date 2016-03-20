@@ -29,7 +29,7 @@ title: About
 <a href="http://kangqiao.pudong.gov.cn/" target="_blank">康桥政府</a>&nbsp;&nbsp;<a href="http://www.kangqiao.gov.cn/" target="_blank">康桥工业区</a>&nbsp;&nbsp;<a href="http://www.pdhr.com/" target="_blank">浦东人才网</a>&nbsp;&nbsp;<a href="http://www.i5zk.cn/forum.php" target="_blank">周康网</a>&nbsp;&nbsp;<a href="http://shanghai.metrofans.cn/forum-328-1.html" target="_blank">上轨周康</a>&nbsp;&nbsp;<a href="http://www.kqbd.com/bbs/forum.php" target="_blank">康桥半岛</a>&nbsp;&nbsp;<br />
 <a href="http://kangqiaolaojie.fang.com/bbs/" target="_blank">老街论坛</a>&nbsp;&nbsp;<a href="http://www.201315.cn/" target="_blank">康桥小邻通</a>&nbsp;&nbsp;<a href="http://kangqiao.jjjaaa.com/" target="_blank"><span>康桥家园</span></a>
 &nbsp;&nbsp; <a href="http://bus.ly.com/" target="_blank">上海公交</a>&nbsp;&nbsp;<a href="http://www.shmetro.com/" target="_blank">上海地铁</a>&nbsp;&nbsp;<a href="http://www.shanghaiairport.com/" target="_blank">上海航班</a>&nbsp;&nbsp;<br />
-<a href="http://www.huoche.com.cn/" target="_blank">火车时刻</a>&nbsp;&nbsp;<a href="http://www.changtu.com/" target="_blank">长途汽车</a>&nbsp;&nbsp;<br />
+<a href="http://www.huoche.com.cn/" target="_blank">火车时刻</a>&nbsp;&nbsp;<a href="http://www.changtu.com/" target="_blank">长途汽车</a>&nbsp;&nbsp;
 <a href="http://www.shgjj.com/" target="_blank">上海公积金</a>&nbsp;&nbsp;<a href="http://www.shyb.gov.cn/" target="_blank">上海医保</a>&nbsp;&nbsp;<a href="http://www.12333sh.gov.cn/wll/" target="_blank">综合保险</a>&nbsp;&nbsp;<a href="https://www.shfft.com/" target="_blank">水电煤查询</a>
 </p>    
 
