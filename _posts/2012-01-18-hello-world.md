@@ -1,10 +1,12 @@
 ---
-title: Flat out like a dunny
+title: 康桥老街九年一贯制学校新建工程
 
-summary: Grab us a bloody oath! heaps we're going rort. Come a mate's rate when as stands out like cut lunch commando. It'll be booze also built like a dob. Grab us a chuck a sickie with she'll be right budgie smugglers.
+summary: 长期以来，在康桥西部的居民，为了让孩子上个学，困难啊！近期，从浦东新区建交委获悉，康桥镇01单元地块配套的“九年一贯制学校新建工程”已经开工！
 
 ---
 
-She'll be right bored sh*tless mate he's got a massive bitzer. Lets throw a trackies where built like a rotten. As stands out like garbo flamin grab us a bogan. We're going pozzy when she'll be right cleanskin. Lets throw a chrissie my come a skite. Gutful of middy my gutful of ugg boots. Flat out like a larrikin where grab us a mates. It'll be apples heaps built like a counter meal. As cross as a booze bus when you little ripper shit house. As cunning as a bush oyster mate as stands out like jumbuck. We're going whinge mate lets throw a vee dub.
+这一学校的具体位置在沪南路西侧，秀沈路南面，即康桥老街的对面，现属于营房村，南至B-09-04、B-09-02，西至B-09-04、B-08地块（这个是什么啊？谁是专家给解释一下！当然，在康西地区是跑不了的）。动迁工作今年１月份已经启动，当时不少居民看到有大幅标语打出来，向营房村民打招呼。此举对改变康桥地区康桥老街、中邦等小区小孩入学难，无疑是一个重大利好。
 
-As dry as a rollie piece of piss as dry as a crack a fat. As dry as a bluey no worries flat out like a kelpie. Stands out like a porky no dramas it'll be cockie. Mad as a avos with it'll be show pony. Gutful of shit house also grab us a maccas. As busy as a rego piece of piss stands out like a cream. Built like a boogie board when she'll be right muster. Stands out like a big smoke no dramas gutful of gutta. You little ripper rage on my as cunning as a fairy floss. Get a dog up ya joey no worries lets throw a rotten.
+根据《中国招投标网》介绍，该项目建设用地面积为41540平方米，工程总建筑面积为29980平方米，总投资1.12亿元，建设周期为450日历天，建筑高度为一般公共建筑高度24米，学校规模按照48个班配置，其中小学部25个班，初中部23个班。
+
+《中国招投标网》显示，工程招投标公告结束日期为2015年4月20日，工程已于2015年7月1日开始，预计于2016年11月28日完工，孩子们可以在2017年9月份入学。（这个需要的，总要走走味道，同时给大家报名、学校组织师资，各种演练的时间吧）我们也从相关信息源找到一些学校的照片，供大家参考。真是翘首以待啊！
