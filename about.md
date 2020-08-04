@@ -7,8 +7,16 @@ title: About
 康桥老街，又名绿地康桥新苑，位于上海“一城九镇”规划“周康中心镇”核心地带，北拥环城绿带30万平方米大型社区。由多层、小高层组小区组成，总面积30万平方米，其建筑再现海派里弄建筑经典.. 
 <p>
 
-| ![康桥老街](img/lj1.jpg) | ![康桥老街](img/lj2.jpg) | ![康桥老街](img/lj3.jpg) | ![康桥老街](img/lj4.jpg) |![康桥老街](img/lj5.jpg) |
-|:-|:-|:-|:-|
+<table border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top"><img src="img/lj1.jpg" width="80" height="200" /></td>
+    <td valign="top"><div style="margin-left:10px;"><img src="img/lj1.jpg" width="80" height="100" /></div></td>
+    <td valign="top"><div style="margin-left:10px;"><img src="img/lj2.jpg" width="80" height="100" /></div></td>
+    <td valign="top"><div style="margin-left:10px;"><img src="img/lj3.jpg" width="80" height="100" /></div></td>
+    <td valign="top"><div style="margin-left:10px;"><img src="img/lj4.jpg" width="80" height="100" /></div></td>
+    <td valign="top"><div style="margin-left:10px;"><img src="img/lj5.jpg" width="80" height="100" /></div></td>
+  </tr>
+</table>
 
 </p>
 <p>
