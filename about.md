@@ -8,10 +8,9 @@ title: About
 
 ![康桥老街](img/lj1.jpg)![康桥老街](img/lj2.jpg)![康桥老街](img/lj3.jpg)![康桥老街](img/lj4.jpg)![康桥老街](img/lj5.jpg)   
 
-<center>
-<img src="img/lj1.jpg" width="80" /><img src="img/lj2.jpg" width="80" /><img src="img/lj3.jpg" width="80" />
-<img src="img/lj4.jpg" width="80"/><img src="img/lj5.jpg" width="80"/>
-</center>
+<figure class="five">
+<img src="img/lj1.jpg" width="100"/><img src="img/lj2.jpg" width="100"/><img src="img/lj3.jpg" width="100"/><img src="img/lj4.jpg" width="100"/><img src="img/lj5.jpg" width="100"/>
+</figure>
 
 <p>
 	周康热线
