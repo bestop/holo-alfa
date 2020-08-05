@@ -6,7 +6,9 @@ title: About
 [Laojie.TK](http://laojie.tk)   
 康桥老街，又名绿地康桥新苑，位于上海“一城九镇”规划“周康中心镇”核心地带，北拥环城绿带30万平方米大型社区。由多层、小高层组小区组成，总面积30万平方米，其建筑再现海派里弄建筑经典.. 
 
-![康桥老街](img/lj1.jpg)![康桥老街](img/lj2.jpg)![康桥老街](img/lj3.jpg)![康桥老街](img/lj4.jpg)![康桥老街](img/lj5.jpg)
+<center class="half">
+    <img src="img/lj1.jpg" width="150"/><img src="img/lj2.jpg" width="150"/><img src="img/lj3.jpg" width="150"/><img src="img/lj4.jpg" width="150"/><img src="img/lj5.jpg" width="150"/>
+</center>
 
 <p>
 	周康热线
