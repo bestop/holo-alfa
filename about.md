@@ -8,11 +8,11 @@ title: About
 
 <center>
 <figure>
-<img src="img/lj1.jpg" width="80" height="200" />
-<img src="img/lj2.jpg" width="80" height="200" />
-<img src="img/lj3.jpg" width="80" height="200" />
-<img src="img/lj4.jpg" width="80" height="200" />
-<img src="img/lj5.jpg" width="80" height="200" />
+<img src="img/lj1.jpg" width="80"  />
+<img src="img/lj2.jpg" width="80"  />
+<img src="img/lj3.jpg" width="80"  />
+<img src="img/lj4.jpg" width="80" />
+<img src="img/lj5.jpg" width="80" />
 </figure>
 </center>
 
