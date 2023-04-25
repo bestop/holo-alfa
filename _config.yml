@@ -1,6 +1,6 @@
 
 # The name of your website.
-name: LAOJIE.TK
+name: Old Street of Cambridge
 
 description:
 
@@ -19,7 +19,7 @@ author:
   # want it.
   info:
 
-url: http://laojie.tk
+url: http://lj.hijoe.net
 baseurl: ""
 
 # language attribute in <html> element.
@@ -36,7 +36,7 @@ lang: en
 show-subtitle: true
 display-social-icons: false
 
-footer-text: <a href="http://laojie.tk">LAOJIE.TK</a>
+footer-text: <a href="http://lj.hijoe.net">LAOJIE</a>
 
 # Preferably 64px in height. Leave empty = disable.
 logo-image: # /img/logo.png
