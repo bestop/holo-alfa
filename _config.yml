@@ -19,7 +19,7 @@ author:
   # want it.
   info:
 
-url: http://lj.hijoe.net
+url: https://t.hikid.org
 baseurl: ""
 
 # language attribute in <html> element.
@@ -36,7 +36,7 @@ lang: en
 show-subtitle: true
 display-social-icons: false
 
-footer-text: <a href="http://lj.hijoe.net">HiKid</a>
+footer-text: <a href="https://t.hikid.org">HiKid</a>
 
 # Preferably 64px in height. Leave empty = disable.
 logo-image: # /img/logo.png
